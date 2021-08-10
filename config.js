@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'love uu bbi',
     reply: 'yêu thì yêu không yêu buộc yêu ',
     mess: 'em yêu anh',
-    messDesc: 'hết dịch rồi mình đi date nhó bbi.',
+    messDesc: 'chúc anh yêu sinh nhật vui vẻ 💋 hết dịch rồi mình đi date nhó bbi.',
     btnAccept: 'oki bbi',
      messLink: 'https://www.facebook.com/nguyenlanchiii'
 }
