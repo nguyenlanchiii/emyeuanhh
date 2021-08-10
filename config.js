@@ -12,7 +12,7 @@ const CONFIG = {
     question:'trên thế giới hơn 7 tỉ người mà sao em lại yêu anh',
     btnReply: 'love uu bbi',
     reply: 'yêu thì yêu không yêu buộc yêu ',
-    mess: 'anh yêu em',
+    mess: 'em yêu anh',
     messDesc: 'hết dịch rồi mình đi date nhó bbi.',
     btnAccept: 'oki bbi',
 }
