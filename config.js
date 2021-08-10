@@ -16,3 +16,4 @@ const CONFIG = {
     messDesc: 'hết dịch rồi mình đi date nhó bbi.',
     btnAccept: 'oki bbi',
      messLink: 'https://www.facebook.com/nguyenlanchiii'
+}
