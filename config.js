@@ -9,10 +9,10 @@ const CONFIG = {
     desc: 'phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'yêu anh nhất quả đất',
     btnNo: 'vẫn là yêu anh siêu nhiều ',
-    question:'trên thế giới hơn 7 tỉ người mà sao em lại yêu anh',
+    question:'trên thế giới hơn 7 tỉ người mà sao anh lại yêu em ',
     btnReply: 'love uu bbi',
     reply: 'yêu thì yêu không yêu buộc yêu ',
     mess: 'em yêu anh',
     messDesc: 'hết dịch rồi mình đi date nhó bbi.',
     btnAccept: 'oki bbi',
-}
+     messLink: 'https://www.facebook.com/nguyenlanchiii'
